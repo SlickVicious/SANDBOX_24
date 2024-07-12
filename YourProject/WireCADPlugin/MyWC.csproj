@@ -1,0 +1,13 @@
+"<Project Sdk=""Microsoft.NET.Sdk"">"
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+"    <Reference Include=""GlobalDAL"">"
+      <HintPath>..\lib\GlobalDAL.dll</HintPath>
+    </Reference>
+"    <Reference Include=""ProjectDAL7"">"
+      <HintPath>..\lib\ProjectDAL7.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
