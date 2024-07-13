@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rhyme\\source\\repos\\WireCADPlugin\\WireCADPlugin\\WireCADPlugin.vbproj",
+      "projectUniqueName": "C:\\Users\\rhyme\\Documents\\GitHub\\SANDBOX_24\\YourProject\\WireCADPlugin\\WireCADPlugin.vbproj",
       "projectName": "WireCADPlugin",
-      "projectPath": "C:\\Users\\rhyme\\source\\repos\\WireCADPlugin\\WireCADPlugin\\WireCADPlugin.vbproj",
+      "projectPath": "C:\\Users\\rhyme\\Documents\\GitHub\\SANDBOX_24\\YourProject\\WireCADPlugin\\WireCADPlugin.vbproj",
       "packagesPath": "C:\\Users\\rhyme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rhyme\\source\\repos\\WireCADPlugin\\WireCADPlugin\\obj\\",
+      "outputPath": "C:\\Users\\rhyme\\Documents\\GitHub\\SANDBOX_24\\YourProject\\WireCADPlugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rhyme\\AppData\\Roaming\\NuGet\\NuGet.Config",
