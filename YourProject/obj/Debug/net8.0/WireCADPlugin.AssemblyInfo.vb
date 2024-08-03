@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("WireCADPlugin"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ced06637d7e947d211c1f2427422ac3497415a3"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6471af726f975507d9d4c14efc4183750efb223a"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("WireCADPlugin"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("WireCADPlugin"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
